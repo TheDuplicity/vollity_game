@@ -1,0 +1,10 @@
+﻿  main_d3d11.cpp
+  input_app.cpp
+D:\Connor\CMP208\CMP208_1900093_Vollity\input_app.cpp(21,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\Connor\CMP208\CMP208_1900093_Vollity\input_app.cpp(164,15): warning C4244: 'initializing': conversion from 'Int32' to 'float', possible loss of data
+D:\Connor\CMP208\CMP208_1900093_Vollity\input_app.cpp(166,14): warning C4244: 'initializing': conversion from 'Int32' to 'float', possible loss of data
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 1733 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  input_app.vcxproj -> D:\Connor\CMP208\CMP208_1900093_Vollity\build\vs2017\x64\Release\input_app.exe
